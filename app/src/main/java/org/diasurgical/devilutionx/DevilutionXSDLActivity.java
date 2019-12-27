@@ -11,6 +11,7 @@ public class DevilutionXSDLActivity extends SDLActivity {
         return new String[] {
             "SDL2",
             "SDL2_mixer",
+            "SDL2_image",
             "SDL2_ttf",
             "devilutionx"
         };
