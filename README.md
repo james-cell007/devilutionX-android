@@ -1,10 +1,10 @@
 Build the project in Android Studio
 
 ```
- git clone https://github.com/diasurgical/devilutionX.git
+ git clone https://github.com/james-cell007/devilutionX.git
  cd devilutionX/
  git checkout android-wip
- git clone https://github.com/diasurgical/devilutionX-android.git android-project
+ git clone https://github.com/james-cell007/devilutionX-android.git android-project
  cd android-project
  ./prepare.sh
 ```
